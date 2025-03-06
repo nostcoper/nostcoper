@@ -1,18 +1,14 @@
-<h1 align="center">Hi 👋, I'm Carlos Serrato</h1>
-<h3 align="center">Multimedia and Systems Engineer</h3>
+# I'm Carlos Serrato
+### Multimedia and Systems Engineer
 
-> [<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MyPortfolio/myportfolio1.svg">](https://shub39.netlify.app)
-> [<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Discord/discord2.svg">](https://discord.gg/https://discord.gg/nxA2hgtEKf)
-> [<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Telegram/telegram1.svg">](https://t.me/shub39)
-
-> ## Listening to
-> [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31z7oxobdiwrat5belvf7biitlny&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31z7oxobdiwrat5belvf7biitlny&redirect=true)
+> [<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MyPortfolio/myportfolio1.svg">]()
+> [<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Discord/discord2.svg">]()
+> [<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Telegram/telegram1.svg">]()
 
 > ## What I Know
 > ### Languages
->> [<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Kotlin/kotlin1.svg">]()
 > [<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python3.svg">]()
-> [<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++2.svg">]()
+> [<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSharp/csharp1.svg">]()
 > [<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C/c3.svg">]()
 > [<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Rust/rust1.svg">]()
 > 
