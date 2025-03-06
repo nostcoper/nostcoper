@@ -8,10 +8,10 @@
 > ## What I Know
 > ### Languages
 > [<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python3.svg">]()
+> [<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java1.svg">]()
+> [<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript1.svg">]()
 > [<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSharp/csharp1.svg">]()
-> [<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C/c3.svg">]()
-> [<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Rust/rust1.svg">]()
-> 
+
 > ### Tools and Technologies
 >> [<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Linux/linux3.svg">]() 
 > [<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/AndroidStudio/androidstudio2.svg">]()
