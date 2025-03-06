@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Carlos Serrato</h1>
-### Multimedia and Systems Engineer
+## Multimedia and Systems Engineer
 
 > [<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MyPortfolio/myportfolio1.svg">](https://shub39.netlify.app)
 > [<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Discord/discord2.svg">](https://discord.gg/https://discord.gg/nxA2hgtEKf)
