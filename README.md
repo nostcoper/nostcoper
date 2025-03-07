@@ -1,3 +1,5 @@
+<img  style="margin-bottom: 10; align=center;"  src="https://github.com/nostcoper/nostcoper/blob/main/Images/Banner.jpg?raw=true"> 
+
 <h1 align="center" style="margin-bottom: 0; border-bottom: none;">Hi, I'm Carlos Serrato</h1>
 <h4 align="center" style="margin-top: 0;">(Multimedia and Software Engineer)</h4>
 
@@ -14,7 +16,6 @@ Feel free to check out my repositories and reach out!
 > [<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MyPortfolio/myportfolio1.svg" height="25">]()
 > [<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin1.svg" height="25">]()
 > [<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Behance/behance1.svg" height="25">]()
-
 
 ## 💡 Tech Stack  
 > ### 🖥️ Languages  
