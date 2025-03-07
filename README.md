@@ -31,6 +31,7 @@
 > [<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/dotNET/dotnet1.svg">]() 
 > [<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Flask/flask1.svg">]() 
 > [<img src="https://raw.githubusercontent.com/nostcoper/nostcoper/refs/heads/main/Badges/Spring.svg" height="31">]()
+> [<img src="https://raw.githubusercontent.com/nostcoper/nostcoper/refs/heads/main/Badges/Influx.svg" height="31">]()
 
 > ### Design tools
 > [<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma1.svg">]()
@@ -51,9 +52,12 @@
 > [<img src="https://raw.githubusercontent.com/nostcoper/nostcoper/refs/heads/main/Badges/Unity.svg" height="31">]()
 
 > ### Other Technologies
-> [<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Arduino/arduino1.svg" height="31">
-> [<img src="https://raw.githubusercontent.com/nostcoper/nostcoper/refs/heads/main/Badges/Unity.svg" height="31">]()
+> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Arduino/arduino1.svg" height="31">
+> <img src="https://raw.githubusercontent.com/nostcoper/nostcoper/refs/heads/main/Badges/Node%20Red.svg" height="31">
+> <img src="https://raw.githubusercontent.com/nostcoper/nostcoper/refs/heads/main/Badges/Make.svg" height="31">
 
 > ### IA Technologies
 > [<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TensorFlow/tensorflow1.svg">]()
 > [<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PyTorch/pytorch1.svg">]()
+> <img src="https://raw.githubusercontent.com/nostcoper/nostcoper/refs/heads/main/Badges/Scikit.svg" height="31">
+> [<img src="https://raw.githubusercontent.com/nostcoper/nostcoper/refs/heads/main/Badges/Keras.svg" height="31">]()
