@@ -1,5 +1,4 @@
-<img  style="margin-bottom: 10; align=center;"  src="https://github.com/nostcoper/nostcoper/blob/main/Images/Banner.png?raw=true"> 
-
+<img  style="margin-bottom: 5; align=center;"  src="https://github.com/nostcoper/nostcoper/blob/main/Images/Banner.png?raw=true"> 
 <h1 align="center" style="margin-bottom: 0; border-bottom: none;">Hi, I'm Carlos Serrato</h1>
 <h4 align="center" style="margin-top: 0;">(Multimedia and Software Engineer)</h4>
 
