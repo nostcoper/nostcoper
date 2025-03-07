@@ -43,6 +43,17 @@
 > [<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git1.svg">]()
 > [<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github1.svg">]()
 
+> ### 3D Modeling Tools
+> [<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Blender/blender1.svg">]()
+
 > ### Game Develoment Tools
 > [<img src="https://raw.githubusercontent.com/nostcoper/nostcoper/refs/heads/main/Badges/Godot.svg" height="31">]()
 > [<img src="https://raw.githubusercontent.com/nostcoper/nostcoper/refs/heads/main/Badges/Unity.svg" height="31">]()
+
+> ### Other Technologies
+> [<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Arduino/arduino1.svg" height="31">
+> [<img src="https://raw.githubusercontent.com/nostcoper/nostcoper/refs/heads/main/Badges/Unity.svg" height="31">]()
+
+> ### IA Technologies
+> [<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TensorFlow/tensorflow1.svg">]()
+> [<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PyTorch/pytorch1.svg">]()
