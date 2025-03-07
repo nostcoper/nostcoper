@@ -11,25 +11,24 @@
       }
 
       .cls-3 {
-        letter-spacing: -.02em;
+        letter-spacing: 0em;
       }
 
       .cls-4 {
-        font-family: Nexa-Heavy, Nexa;
-        font-size: 20.95px;
-        font-weight: 800;
-      }
-
-      .cls-4, .cls-2 {
-        fill: #fff;
+        letter-spacing: .01em;
       }
 
       .cls-5 {
-        letter-spacing: 0em;
+        font-family: NexaBold, 'Nexa Bold';
+        font-size: 20.95px;
+      }
+
+      .cls-5, .cls-2 {
+        fill: #fff;
       }
     </style>
   </defs>
   <rect class="cls-1" x="0" y="0" width="102.76" height="29.56" rx="14.78" ry="14.78"/>
-  <text class="cls-4" transform="translate(34.75 22.2)"><tspan class="cls-5" x="0" y="0">U</tspan><tspan x="15.88" y="0">nit</tspan><tspan class="cls-3" x="43.47" y="0">y</tspan></text>
+  <text class="cls-5" transform="translate(34.75 22.2)"><tspan class="cls-3" x="0" y="0">U</tspan><tspan x="15.36" y="0">ni</tspan><tspan class="cls-4" x="32.58" y="0">t</tspan><tspan x="41.17" y="0">y</tspan></text>
   <path class="cls-2" d="M25.57,20.43l-3.22-5.43,3.22-5.43,1.58,5.43-1.58,5.43ZM18.45,19.9l-4.05-4h6.45l3.22,5.43-5.62-1.43ZM18.45,10.02l5.62-1.43-3.22,5.43h-6.53c0,.08,4.12-4,4.12-4h0ZM26.7,5.95l-7.35,1.88-1.12,1.88h-2.18l-5.4,5.28,5.4,5.28h2.18l1.05,1.88,7.35,1.88,1.95-7.16-1.05-1.88,1.12-1.88-1.95-7.16Z"/>
 </svg>
