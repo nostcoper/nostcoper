@@ -1,4 +1,4 @@
-<img  style="margin-bottom: 10; align=center;"  src="https://raw.githubusercontent.com/nostcoper/nostcoper/dbb0820213a3cc5d23c97fc227f7c2ae18cd22f7/Images/Banner.png"> 
+<img  style="margin-bottom: 10; align=center;"  src="https://github.com/nostcoper/nostcoper/blob/main/Images/Banner.png?raw=true"> 
 
 <h1 align="center" style="margin-bottom: 0; border-bottom: none;">Hi, I'm Carlos Serrato</h1>
 <h4 align="center" style="margin-top: 0;">(Multimedia and Software Engineer)</h4>
@@ -16,6 +16,7 @@ Feel free to check out my repositories and reach out!
 > [<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MyPortfolio/myportfolio1.svg" height="25">]()
 > [<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin1.svg" height="25">]()
 > [<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Behance/behance1.svg" height="25">]()
+
 
 ## 💡 Tech Stack  
 > ### 🖥️ Languages  
@@ -73,10 +74,3 @@ Feel free to check out my repositories and reach out!
 > <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Arduino/arduino1.svg" height="22">  
 > <img src="https://raw.githubusercontent.com/nostcoper/nostcoper/refs/heads/main/Badges/Node%20Red.svg" height="22">  
 > <img src="https://raw.githubusercontent.com/nostcoper/nostcoper/refs/heads/main/Badges/Make.svg" height="22">  
-
-## Github Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nostcoper&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nostcoper&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="languages graph"  />
-</div>
